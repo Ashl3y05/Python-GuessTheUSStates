@@ -13,8 +13,8 @@ A python game that lets you guess all of the US states and create a csv file of 
 # How to play
 -  You will start with an empty US map without names
 -  You will receive a prompt that will let you enter a state that you know
-  - In the prompt, you can press 'Cancel' to stop the game
-  - You will also see your score on the title bar of the prompt
+     - In the prompt, you can press 'Cancel' to stop the game
+     - You will also see your score on the title bar of the prompt
 - The game will end once you guessed all of the states or you pressed 'Cancel'
 - When ending the game through 'Cancel' button, it will ask you to enter your name and the game will produce a csv file that contains all of the States that you've missed
 
